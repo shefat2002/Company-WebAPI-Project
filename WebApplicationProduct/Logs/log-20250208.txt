@@ -1,0 +1,143 @@
+2025-02-08 19:27:49.514 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 19:27:51.429 +06:00 [ERR] An error occurred using the connection to database '' on server ''.
+2025-02-08 19:29:07.211 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 19:29:07.446 +06:00 [ERR] Failed executing DbCommand (132ms) [Parameters=[@p0='?' (Size = 200)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0);
+2025-02-08 19:32:22.659 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 19:32:23.431 +06:00 [ERR] An error occurred using the connection to database 'AppDb' on server 'MOHAMMAD-ALAM-E\SQLEXPRESS'.
+2025-02-08 19:33:14.723 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 19:33:14.921 +06:00 [ERR] Failed executing DbCommand (132ms) [Parameters=[@p0='?' (Size = 200)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0);
+2025-02-08 19:33:37.529 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 19:33:37.629 +06:00 [ERR] An error occurred using the connection to database 'AppDb' on server 'MOHAMMAD-ALAM-E\SQLEXPRESS'.
+2025-02-08 19:41:13.326 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 19:41:14.486 +06:00 [ERR] An error occurred using the connection to database 'AppDb' on server '.\SQLEXPRESS'.
+2025-02-08 19:41:23.730 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 19:41:23.953 +06:00 [ERR] Failed executing DbCommand (119ms) [Parameters=[@p0='?' (Size = 200)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0);
+2025-02-08 20:12:56.413 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 20:12:57.088 +06:00 [ERR] An error occurred using the connection to database 'AppDb' on server '.\SQLEXPRESS'.
+2025-02-08 20:13:21.295 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 20:13:21.757 +06:00 [ERR] Failed executing DbCommand (347ms) [Parameters=[@p0='?' (Size = 200)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0);
+2025-02-08 21:23:20.728 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 21:23:21.611 +06:00 [ERR] An error occurred using the connection to database 'CompanyDb' on server '.\SQLEXPRESS'.
+2025-02-08 21:23:31.515 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 21:23:31.695 +06:00 [ERR] Failed executing DbCommand (105ms) [Parameters=[@p0='?' (Size = 200)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0);
+2025-02-08 21:34:33.070 +06:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-02-08 21:34:34.070 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 21:34:34.673 +06:00 [ERR] An error occurred using the connection to database '' on server ''.
+2025-02-08 21:37:12.343 +06:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-02-08 21:37:12.899 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 21:37:13.457 +06:00 [ERR] An error occurred using the connection to database 'CompanyDb' on server '.\SQLEXPRESS'.
+2025-02-08 21:37:20.663 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 21:37:20.871 +06:00 [ERR] Failed executing DbCommand (141ms) [Parameters=[@p0='Aci Pharma' (Nullable = false) (Size = 200)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0);
+2025-02-08 21:39:44.638 +06:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-02-08 21:39:45.391 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 21:39:46.084 +06:00 [ERR] An error occurred using the connection to database 'CompanyDb' on server '.'.
+2025-02-08 21:44:51.634 +06:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-02-08 21:44:52.023 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 21:44:52.458 +06:00 [ERR] An error occurred using the connection to database 'CompanyDb' on server 'MOHAMMAD-ALAM-E\SQLEXPRESS'.
+2025-02-08 21:58:41.402 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 21:58:41.410 +06:00 [ERR] An error occurred using the connection to database 'CompanyDb' on server 'MOHAMMAD-ALAM-E\SQLEXPRESS'.
+2025-02-08 21:58:46.544 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 21:58:46.686 +06:00 [ERR] Failed executing DbCommand (86ms) [Parameters=[@p0='AristoPharma' (Nullable = false) (Size = 200)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0);
+2025-02-08 22:04:54.490 +06:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-02-08 22:04:55.302 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 22:04:56.290 +06:00 [ERR] An error occurred using the connection to database '' on server ''.
+2025-02-08 22:21:16.465 +06:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-02-08 22:21:32.381 +06:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-02-08 22:26:36.569 +06:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-02-08 22:26:37.243 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 22:26:38.075 +06:00 [ERR] An error occurred using the connection to database '' on server ''.
+2025-02-08 22:41:23.080 +06:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-02-08 22:41:23.621 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 22:41:24.389 +06:00 [ERR] An error occurred using the connection to database 'CompanyDb' on server 'MOHAMMAD-ALAM-E\SQLEXPRESS'.
+2025-02-08 22:45:02.488 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 22:45:03.289 +06:00 [ERR] An error occurred using the connection to database 'CompanyDb' on server 'MOHAMMAD-ALAM-E\SQLEXPRESS'.
+2025-02-08 22:49:43.328 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 22:49:43.841 +06:00 [ERR] An error occurred using the connection to database 'CompanyDb' on server 'MOHAMMAD-ALAM-E\SQLEXPRESS'.
+2025-02-08 22:49:44.052 +06:00 [ERR] Error occurred while saving changes asynchronously.
+System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'CompanyDbContext'.
+   at Microsoft.EntityFrameworkCore.DbContext.CheckDisposed()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at AenEnterprise.DataAccess.Repository.UnitOfWork.SaveAsync() in C:\Users\X-star\source\repos\WebApplicationProduct\WebApplicationProduct\Features\DataAccess\Repositories\UnitOfWork.cs:line 37
+2025-02-08 22:50:02.153 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 22:50:02.350 +06:00 [ERR] Failed executing DbCommand (117ms) [Parameters=[@p0='?' (Size = 200)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0);
+2025-02-08 22:50:02.561 +06:00 [ERR] Error occurred while saving changes asynchronously.
+System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'CompanyDbContext'.
+   at Microsoft.EntityFrameworkCore.DbContext.CheckDisposed()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at AenEnterprise.DataAccess.Repository.UnitOfWork.SaveAsync() in C:\Users\X-star\source\repos\WebApplicationProduct\WebApplicationProduct\Features\DataAccess\Repositories\UnitOfWork.cs:line 37
+2025-02-08 23:26:12.071 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 23:26:13.328 +06:00 [ERR] An error occurred using the connection to database '' on server ''.
+2025-02-08 23:26:13.596 +06:00 [ERR] Error occurred while saving changes asynchronously.
+System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'CompanyDbContext'.
+   at Microsoft.EntityFrameworkCore.DbContext.CheckDisposed()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at AenEnterprise.DataAccess.Repository.UnitOfWork.SaveAsync() in C:\Users\X-star\source\repos\WebApplicationProduct\WebApplicationProduct\Features\DataAccess\Repositories\UnitOfWork.cs:line 37
+2025-02-08 23:26:23.598 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 23:26:23.771 +06:00 [ERR] Failed executing DbCommand (98ms) [Parameters=[@p0='?' (Size = 200)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([Name])
+OUTPUT INSERTED.[Id]
+VALUES (@p0);
+2025-02-08 23:26:23.949 +06:00 [ERR] Error occurred while saving changes asynchronously.
+System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'CompanyDbContext'.
+   at Microsoft.EntityFrameworkCore.DbContext.CheckDisposed()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at AenEnterprise.DataAccess.Repository.UnitOfWork.SaveAsync() in C:\Users\X-star\source\repos\WebApplicationProduct\WebApplicationProduct\Features\DataAccess\Repositories\UnitOfWork.cs:line 37
+2025-02-08 23:27:11.953 +06:00 [INF] Saving changes asynchronously...
+2025-02-08 23:27:12.775 +06:00 [ERR] An error occurred using the connection to database 'CompanyDb' on server 'MOHAMMAD-ALAM-E\SQLEXPRESS'.
+2025-02-08 23:27:12.995 +06:00 [ERR] Error occurred while saving changes asynchronously.
+System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'CompanyDbContext'.
+   at Microsoft.EntityFrameworkCore.DbContext.CheckDisposed()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at AenEnterprise.DataAccess.Repository.UnitOfWork.SaveAsync() in C:\Users\X-star\source\repos\WebApplicationProduct\WebApplicationProduct\Features\DataAccess\Repositories\UnitOfWork.cs:line 37

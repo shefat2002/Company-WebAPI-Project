@@ -1,0 +1,2 @@
+2025-02-12 20:24:06.224 +06:00 [ERR] Failed executing DbCommand (31ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [CompanyDb];

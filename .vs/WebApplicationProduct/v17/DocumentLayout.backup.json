@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\application\\comapnycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\application\\comapnycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\dataaccess\\entityconfigurations\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\dataaccess\\entityconfigurations\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\dataaccess\\entityconfigurations\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\dataaccess\\entityconfigurations\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\dataaccess\\microservicedbcontext\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\dataaccess\\microservicedbcontext\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\dataaccess\\microservicedbcontext\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\dataaccess\\microservicedbcontext\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\dataaccess\\repositories\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\dataaccess\\repositories\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\dataaccess\\repositories\\comapnyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\dataaccess\\repositories\\comapnyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\dataaccess\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\dataaccess\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\dataaccess\\repositoryinterface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\dataaccess\\repositoryinterface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\dataaccess\\repositoryinterface\\igenericerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\dataaccess\\repositoryinterface\\igenericerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\dataaccess\\repositoryinterface\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\dataaccess\\repositoryinterface\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\dataaccess\\repositoryinterface\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\dataaccess\\repositoryinterface\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\domainmodels\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\domainmodels\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\domainmodels\\branchfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\domainmodels\\branchfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\domainmodels\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\domainmodels\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|d:\\csharplearning\\practiceproject\\company-webapi-project\\webapplicationproduct\\features\\domainmodels\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333D033-4FC2-45A9-8F61-892B91BC5463}|WebApplicationProduct\\WebApplicationProduct.csproj|solutionrelative:webapplicationproduct\\features\\domainmodels\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BranchConfiguration.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\EntityConfigurations\\BranchConfiguration.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DataAccess\\EntityConfigurations\\BranchConfiguration.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\EntityConfigurations\\BranchConfiguration.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DataAccess\\EntityConfigurations\\BranchConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:33:52.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\MicroServiceDbContext\\Class.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DataAccess\\MicroServiceDbContext\\Class.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\MicroServiceDbContext\\Class.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DataAccess\\MicroServiceDbContext\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:33:48.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\Repositories\\Class.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DataAccess\\Repositories\\Class.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\Repositories\\Class.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DataAccess\\Repositories\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:33:45.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComapnyRepository.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\Repositories\\ComapnyRepository.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DataAccess\\Repositories\\ComapnyRepository.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\Repositories\\ComapnyRepository.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DataAccess\\Repositories\\ComapnyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:33:44.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DataAccess\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DataAccess\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:33:42.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DataAccess\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DataAccess\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:33:41.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\IUnitOfWork.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\IUnitOfWork.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:33:40.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericeRepository.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\IGenericeRepository.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\IGenericeRepository.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\IGenericeRepository.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\IGenericeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:33:37.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\ICompanyRepository.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\ICompanyRepository.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\ICompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:33:35.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\Class.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\Class.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\Class.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DataAccess\\RepositoryInterface\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:33:34.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BranchFactory.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DomainModels\\BranchFactory.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DomainModels\\BranchFactory.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DomainModels\\BranchFactory.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DomainModels\\BranchFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:33:25.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DomainModels\\Class.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DomainModels\\Class.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DomainModels\\Class.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DomainModels\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:33:22.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DomainModels\\Branch.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DomainModels\\Branch.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DomainModels\\Branch.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DomainModels\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:31:51.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DomainModels\\Company.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DomainModels\\Company.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DomainModels\\Company.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DomainModels\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:17:20.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\MicroServiceDbContext\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DataAccess\\MicroServiceDbContext\\CompanyDbContext.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\MicroServiceDbContext\\CompanyDbContext.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DataAccess\\MicroServiceDbContext\\CompanyDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:31:02.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyConfiguration.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\EntityConfigurations\\CompanyConfiguration.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\DataAccess\\EntityConfigurations\\CompanyConfiguration.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\DataAccess\\EntityConfigurations\\CompanyConfiguration.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\DataAccess\\EntityConfigurations\\CompanyConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:22:45.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComapnyController.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\Application\\ComapnyController.cs",
+              "RelativeDocumentMoniker": "WebApplicationProduct\\Features\\Application\\ComapnyController.cs",
+              "ToolTip": "D:\\CSharpLearning\\PracticeProject\\Company-WebAPI-Project\\WebApplicationProduct\\Features\\Application\\ComapnyController.cs",
+              "RelativeToolTip": "WebApplicationProduct\\Features\\Application\\ComapnyController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:15:28.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

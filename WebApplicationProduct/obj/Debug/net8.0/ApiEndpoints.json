@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "WebApplicationProduct.Features.Application.ComapnyController",
+    "Method": "AddAsync",
+    "RelativePath": "api/Comapny/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BranchName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplicationProduct.Features.Application.ComapnyController",
+    "Method": "GetByAsync",
+    "RelativePath": "api/Comapny/getby/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
