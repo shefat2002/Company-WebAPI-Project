@@ -2,7 +2,12 @@
 {
     public class CompanyRequest
     {
+        public CompanyRequest()
+        {
+            Branches = new();
+        }
         public string Name { get; set; }
-        public string BranchName {  get; set; }
+        public List<string>Branches {  get; set; }
+        
     }
 }

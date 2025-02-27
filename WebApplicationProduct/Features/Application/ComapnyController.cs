@@ -15,7 +15,7 @@ namespace WebApplicationProduct.Features.Application
         }
 
         [HttpPost("create")]
-        public async Task<IActionResult> AddAsync([FromQuery] CompanyRequest request)
+        public async Task<IActionResult> AddAsync([FromBody] CompanyRequest request)
         {
             await _companyService.Add(request);
 
@@ -28,8 +28,26 @@ namespace WebApplicationProduct.Features.Application
             var response= await _companyService.GetBy(id);
             return Ok(response);
         }
-
-
+        [HttpPost("update/{id}")]
+        public async Task<IActionResult> UpdateAsync(int id, [FromBody] UpdateCompanyRequest request)
+        {
+            try
+            {
+                await _companyService.Update(request, id);
+                return Ok("Success");
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            
+        }
+        [HttpDelete("delete/{id}")]
+        public async Task<IActionResult> DeleteAsync(int id)
+        {
+            await _companyService.Delete(id);
+            return Ok("Success");
+        }
     }
 }
 

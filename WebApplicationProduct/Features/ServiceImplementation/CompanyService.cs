@@ -1,5 +1,4 @@
-﻿
-using AutoMapper;
+﻿using AutoMapper;
 using WebApplicationProduct.Features.DataAccess.RepositoryInterface;
 using WebApplicationProduct.Features.DomainModels;
 using WebApplicationProduct.Features.ServiceImplementation.ServiceInterface;
@@ -11,14 +10,18 @@ namespace WebApplicationProduct.Features.ServiceImplementation
     public class CompanyService : ICompanyService
     {
         private readonly ICompanyRepository _companyRepository;
+        private readonly IBranchRepository _branchRepository;
+
         private readonly IUnitOfWork _unitOfWork;
         private IMapper _mapper;
-        public CompanyService(ICompanyRepository companyRepository, IUnitOfWork unitOfWork, IMapper mapper)
+        public CompanyService(ICompanyRepository companyRepository, IUnitOfWork unitOfWork, IMapper mapper, IBranchRepository branchRepository)
         {
             _companyRepository = companyRepository;
             _unitOfWork = unitOfWork;
             _mapper = mapper;
+            _branchRepository = branchRepository;
         }
+
         public async Task Add(CompanyRequest request)
         {
             try
@@ -27,9 +30,11 @@ namespace WebApplicationProduct.Features.ServiceImplementation
                 {
                     Name = request.Name
                 };
-
-                company.AddBranch(request.BranchName);
-
+                foreach(var branchName in request.Branches)
+                {
+                    company.AddBranch(branchName);
+                }
+                
                 await _companyRepository.Add(company);
                 await _unitOfWork.SaveAsync();
             }
@@ -43,11 +48,30 @@ namespace WebApplicationProduct.Features.ServiceImplementation
         public async Task<GetCompanyResponse> GetBy(int id)
         {
             GetCompanyResponse response = new GetCompanyResponse();
-            Company company = await _companyRepository.GetBy(id);
-
+            Company company = await _companyRepository.GetBy(id, c=> c.Branches);
             response.Company = company.ConvertToCompanyView(_mapper);
 
             return response;
+        }
+
+        public async Task Update(UpdateCompanyRequest request, int id)
+        {
+            Company company = await _companyRepository.GetBy(id);
+            Branch branch = await _branchRepository.GetBy(company.Id);
+            company.Name = request.Name;
+            foreach(var item in request.Branches)
+            {
+                branch.Name = item.Name; //H.W.
+            }
+            await _companyRepository.Update(company);
+            await _unitOfWork.SaveAsync();
+
+        }
+        public async Task Delete(int id)
+        {
+            Company company = await _companyRepository.GetBy(id);
+            await _companyRepository.Delete(company);
+            await _unitOfWork.SaveAsync();
         }
     }
 }

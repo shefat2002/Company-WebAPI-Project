@@ -6,6 +6,10 @@ namespace WebApplicationProduct.Features.ServiceImplementation.ServiceInterface
     {
         Task Add(CompanyRequest request);
         Task<GetCompanyResponse> GetBy(int id);
+
+        Task Update(UpdateCompanyRequest request, int id);
+        Task Delete(int id);
+
     }
 
 

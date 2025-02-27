@@ -11,10 +11,7 @@ namespace WebApplicationProduct.Features.ServiceImplementation.ServiceInterface.
         public CompanyPrfile()
         {
             CreateMap<Company, CompanyView>();
-            CreateMap<Branch, BranchView>()
-            .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Company.Branches.FirstOrDefault().Name));
-
+            CreateMap<Branch, BranchView>();           
         }
-        
     }
 }

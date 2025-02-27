@@ -33,6 +33,7 @@ builder.Services.AddDbContext<CompanyDbContext>(options =>
 //builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<ICompanyRepository, CompanyRepository>();
+builder.Services.AddScoped<IBranchRepository, BranchRepository>();
 builder.Services.AddScoped<ICompanyService, CompanyService>();
 
 //Automapper Service

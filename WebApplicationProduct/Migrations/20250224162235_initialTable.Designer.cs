@@ -11,8 +11,8 @@ using WebApplicationProduct.Features.DataAccess.MicroServiceDbContext;
 namespace WebApplicationProduct.Migrations
 {
     [DbContext(typeof(CompanyDbContext))]
-    [Migration("20250214132138_AppDb")]
-    partial class AppDb
+    [Migration("20250224162235_initialTable")]
+    partial class initialTable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -43,7 +43,7 @@ namespace WebApplicationProduct.Migrations
 
                     b.HasIndex("CompanyId");
 
-                    b.ToTable("Branches");
+                    b.ToTable("BranchesDb");
                 });
 
             modelBuilder.Entity("WebApplicationProduct.Features.DomainModels.Company", b =>

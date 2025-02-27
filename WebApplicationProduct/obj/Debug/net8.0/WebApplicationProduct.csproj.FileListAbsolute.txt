@@ -485,3 +485,4 @@ D:\CSharpLearning\PracticeProject\Company-WebAPI-Project\WebApplicationProduct\o
 D:\CSharpLearning\PracticeProject\Company-WebAPI-Project\WebApplicationProduct\obj\Debug\net8.0\WebApplicationProduct.pdb
 D:\CSharpLearning\PracticeProject\Company-WebAPI-Project\WebApplicationProduct\obj\Debug\net8.0\WebApplicationProduct.genruntimeconfig.cache
 D:\CSharpLearning\PracticeProject\Company-WebAPI-Project\WebApplicationProduct\obj\Debug\net8.0\ref\WebApplicationProduct.dll
+D:\CSharpLearning\PracticeProject\Company-WebAPI-Project\WebApplicationProduct\obj\Debug\net8.0\WebApplicationProduct.sourcelink.json

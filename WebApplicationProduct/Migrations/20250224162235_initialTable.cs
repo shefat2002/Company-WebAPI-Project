@@ -5,7 +5,7 @@
 namespace WebApplicationProduct.Migrations
 {
     /// <inheritdoc />
-    public partial class AppDb : Migration
+    public partial class initialTable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -24,7 +24,7 @@ namespace WebApplicationProduct.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Branches",
+                name: "BranchesDb",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -34,9 +34,9 @@ namespace WebApplicationProduct.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Branches", x => x.Id);
+                    table.PrimaryKey("PK_BranchesDb", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Branches_Companies_CompanyId",
+                        name: "FK_BranchesDb_Companies_CompanyId",
                         column: x => x.CompanyId,
                         principalTable: "Companies",
                         principalColumn: "Id",
@@ -44,8 +44,8 @@ namespace WebApplicationProduct.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Branches_CompanyId",
-                table: "Branches",
+                name: "IX_BranchesDb_CompanyId",
+                table: "BranchesDb",
                 column: "CompanyId");
         }
 
@@ -53,7 +53,7 @@ namespace WebApplicationProduct.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Branches");
+                name: "BranchesDb");
 
             migrationBuilder.DropTable(
                 name: "Companies");

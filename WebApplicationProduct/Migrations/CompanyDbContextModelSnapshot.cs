@@ -40,7 +40,7 @@ namespace WebApplicationProduct.Migrations
 
                     b.HasIndex("CompanyId");
 
-                    b.ToTable("Branches");
+                    b.ToTable("BranchesDb");
                 });
 
             modelBuilder.Entity("WebApplicationProduct.Features.DomainModels.Company", b =>
