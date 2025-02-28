@@ -54,15 +54,17 @@ namespace WebApplicationProduct.Features.ServiceImplementation
             return response;
         }
 
-        public async Task Update(UpdateCompanyRequest request, int id)
+        public async Task Update(UpdateBranchRequest request, int id)
         {
-            Company company = await _companyRepository.GetBy(id);
-            Branch branch = await _branchRepository.GetBy(company.Id);
+            Company company = await _companyRepository.GetBy(id, c => c.Branches);
             company.Name = request.Name;
-            foreach(var item in request.Branches)
+            Branch branch = company.Branches.FirstOrDefault(b => b.Id == request.branchId);
+            if (branch == null)
             {
-                branch.Name = item.Name; //H.W.
+                throw new Exception("Branch not found");
             }
+            branch.Name = request.branchName; 
+
             await _companyRepository.Update(company);
             await _unitOfWork.SaveAsync();
 

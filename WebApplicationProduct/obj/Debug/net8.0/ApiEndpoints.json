@@ -51,18 +51,28 @@
     "ContainingType": "WebApplicationProduct.Features.Application.ComapnyController",
     "Method": "UpdateAsync",
     "RelativePath": "api/Comapny/update/{id}",
-    "HttpMethod": "POST",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
       },
       {
-        "Name": "request",
-        "Type": "WebApplicationProduct.Features.ServiceImplementation.ServiceInterface.Messaging.UpdateCompanyRequest",
+        "Name": "branchId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "branchName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

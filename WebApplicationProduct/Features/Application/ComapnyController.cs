@@ -28,12 +28,17 @@ namespace WebApplicationProduct.Features.Application
             var response= await _companyService.GetBy(id);
             return Ok(response);
         }
-        [HttpPost("update/{id}")]
-        public async Task<IActionResult> UpdateAsync(int id, [FromBody] UpdateCompanyRequest request)
+        [HttpPut("update/{id}")]
+        public async Task<IActionResult> UpdateAsync([FromQuery] UpdateBranchRequest  frmRequest,int id)
         {
             try
-            {
-                await _companyService.Update(request, id);
+            {   
+                UpdateBranchRequest companyRequest = new();
+                companyRequest.Name = frmRequest.Name;
+                companyRequest.branchName = frmRequest.branchName;
+                companyRequest.branchId = frmRequest.branchId;
+
+                await _companyService.Update(companyRequest, id);
                 return Ok("Success");
             }
             catch (Exception)

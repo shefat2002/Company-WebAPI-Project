@@ -1,4 +1,5 @@
-﻿using WebApplicationProduct.Features.ServiceImplementation.ServiceInterface.ViewModel;
+﻿using WebApplicationProduct.Features.DomainModels;
+using WebApplicationProduct.Features.ServiceImplementation.ServiceInterface.ViewModel;
 
 namespace WebApplicationProduct.Features.ServiceImplementation.ServiceInterface.Messaging
 {
@@ -6,5 +7,6 @@ namespace WebApplicationProduct.Features.ServiceImplementation.ServiceInterface.
     {
         public string Name { get; set; }
         public List<BranchView> Branches { get; set; }
+        
     }
 }

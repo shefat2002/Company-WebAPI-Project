@@ -14,7 +14,7 @@ namespace WebApplicationProduct.Features.DomainModels
         public List<Branch> Branches { get; set; }
         public void AddBranch(string name)
         {
-            Branches.Add(BranchFactory.CreateBranch(name, this));
+            Branches.Add(BranchFactory.CreateBranch(name, this)); //Factory Method Design Pattern
         }
     }
 }
