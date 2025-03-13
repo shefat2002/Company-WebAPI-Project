@@ -79,8 +79,7 @@
               "RelativeToolTip": "WebApplicationProduct\\Features\\DomainModels\\Company.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAcwBAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T15:04:05.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T15:04:05.825Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "WebApplicationProduct\\Features\\ServiceImplementation\\ServiceInterface\\ICompanyService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:51:57.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T14:51:57.608Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "WebApplicationProduct\\Features\\ServiceImplementation\\ServiceInterface\\Messaging\\UpdateBranchRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:49:58.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T14:49:58.852Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "WebApplicationProduct\\Features\\ServiceImplementation\\ServiceInterface\\Messaging\\CompanyRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:41:16.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:41:16.162Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "WebApplicationProduct\\Features\\ServiceImplementation\\ServiceInterface\\Messaging\\DeleteCompanyRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:41:15.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:41:15.195Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "WebApplicationProduct\\Features\\ServiceImplementation\\ServiceInterface\\Messaging\\GetCompanyResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:41:10.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:41:10.744Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "WebApplicationProduct\\Features\\ServiceImplementation\\ServiceInterface\\Messaging\\UpdateCompanyRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:41:07.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:41:07.728Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "WebApplicationProduct\\Features\\Application\\ComapnyController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:38:14.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:38:14.129Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "WebApplicationProduct\\Features\\ServiceImplementation\\CompanyService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:37:52.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:37:52.392Z"
             },
             {
               "$type": "Document",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "WebApplicationProduct\\Features\\DomainModels\\Branch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:32:03.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:32:03.523Z"
             }
           ]
         }
