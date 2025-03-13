@@ -1,6 +1,7 @@
 using AenEnterprise.DataAccess.Repository;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
+using WebApplicationProduct.Features.CQRS;
 using WebApplicationProduct.Features.DataAccess.MicroServiceDbContext;
 using WebApplicationProduct.Features.DataAccess.Repositories;
 using WebApplicationProduct.Features.DataAccess.RepositoryInterface;
@@ -35,6 +36,8 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<ICompanyRepository, CompanyRepository>();
 builder.Services.AddScoped<IBranchRepository, BranchRepository>();
 builder.Services.AddScoped<ICompanyService, CompanyService>();
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining<CreateCompanyHandler>());
+
 
 //Automapper Service
 builder.Services.AddAutoMapper(typeof(CompanyPrfile));
